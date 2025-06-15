@@ -1,0 +1,15 @@
+[project]
+name = "koreshkov-thesis-assets"
+version = "0.1.0"
+description = "Follow-up jupyter notebooks with computations for my master thesis on statistical approach to texture features."
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.3",
+    "numpy>=2.3.0",
+    "pillow>=11.2.1",
+    "scikit-image>=0.25.2",
+    "scikit-learn>=1.7.0",
+    "scipy>=1.15.3",
+    "seaborn>=0.13.2",
+    "tqdm>=4.67.1",
+]
